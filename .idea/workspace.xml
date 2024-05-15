@@ -1,30 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="918eee28-a8a0-4f0c-806a-5cfe1992bb9f" name="Changes" comment="" />
+    <list default="true" id="918eee28-a8a0-4f0c-806a-5cfe1992bb9f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Giftable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Giftable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus/Pet.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/Pet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus/model/Animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/model/Animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus/model/Cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/model/Cat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus/model/Fish.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/model/Fish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus/model/Spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/model/Spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enums/CustomerType.py" beforeDir="false" afterPath="$PROJECT_DIR$/enums/CustomerType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enums/PaymentType.py" beforeDir="false" afterPath="$PROJECT_DIR$/enums/PaymentType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Item.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/RegularOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/RegularOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/VipOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/VipOrder.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "david-menahem"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/david-menahem/python_exam_oop.git",
+    "accountId": "f7024eb7-6307-4be6-a13c-8aeef3fab48c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2gVbEYU9w2SsDaQywn6YlIjRp8n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.RegularOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VipOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yaelg\PycharmProjects\python_exam_oop\bonus\model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exam_oop" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
