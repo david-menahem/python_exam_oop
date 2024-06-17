@@ -45,4 +45,4 @@ class Customer():
     def open_gift(self):
         if isinstance(self.gift,Giftable):
             self.gift.open_gift()
-        
+
