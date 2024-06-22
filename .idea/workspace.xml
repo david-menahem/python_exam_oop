@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="918eee28-a8a0-4f0c-806a-5cfe1992bb9f" name="Changes" comment="">
+    <list default="true" id="918eee28-a8a0-4f0c-806a-5cfe1992bb9f" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Giftable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Giftable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lamp.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Lamp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enums/CustomerType.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/enums/CustomerType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enums/PaymentType.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/enums/PaymentType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/Customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Customer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/VipOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/VipOrder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +103,41 @@
       <option name="presentableId" value="Default" />
       <updated>1715785580831</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix errors">
+      <option name="closed" value="true" />
+      <created>1718602257812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718602257812</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py">
+      <option name="closed" value="true" />
+      <created>1718602433680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718602433680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <MESSAGE value="fix errors" />
+    <MESSAGE value="fix errors 2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py" />
   </component>
 </project>
