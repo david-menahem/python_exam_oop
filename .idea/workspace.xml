@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="918eee28-a8a0-4f0c-806a-5cfe1992bb9f" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="918eee28-a8a0-4f0c-806a-5cfe1992bb9f" name="Changes" comment="git ignore idea 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +117,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718602433680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py">
+      <option name="closed" value="true" />
+      <created>1719084088772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719084088772</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git ignore idea">
+      <option name="closed" value="true" />
+      <created>1719084199143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719084199143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git ignore idea 2">
+      <option name="closed" value="true" />
+      <created>1719084293847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719084293847</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +160,8 @@
     <MESSAGE value="fix errors" />
     <MESSAGE value="fix errors 2" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Giftable.py&#10;#&#9;Lamp.py&#10;#&#9;enums/CustomerType.py&#10;#&#9;enums/PaymentType.py&#10;#&#9;main.py&#10;#&#9;model/Customer.py&#10;#&#9;model/Order.py&#10;#&#9;model/VipOrder.py" />
+    <MESSAGE value="git ignore idea" />
+    <MESSAGE value="git ignore idea 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore idea 2" />
   </component>
 </project>
